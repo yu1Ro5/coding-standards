@@ -69,21 +69,21 @@ gitGraph
   checkout main
   merge feature/featureA id:"mergeA"
   branch fix/featureB
-  branch feauture/featureC
+  branch feature/featureC
   checkout fix/featureB
   commit
   commit
-  checkout feauture/featureC
+  checkout feature/featureC
   commit
   checkout main
   checkout fix/featureB
   commit
   checkout main
   merge fix/featureB id:"mergeB"
-  checkout feauture/featureC
+  checkout feature/featureC
   commit
   checkout main
-  merge feauture/featureC id:"mergeC"
+  merge feature/featureC id:"mergeC"
 ```
 #### 通常運用
 
