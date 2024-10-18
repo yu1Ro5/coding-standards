@@ -11,6 +11,10 @@
 - ログイン処理
 - 会員登録への導線
 
+## 画面イメージ
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/6B8SjrV9xAwb7bKrieTNs2/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB?node-id=3-511&embed-host=share" allowfullscreen></iframe>
+
 ## イベント概要
 
 | No | イベント名  | イベント分類 | 処理説明 |
